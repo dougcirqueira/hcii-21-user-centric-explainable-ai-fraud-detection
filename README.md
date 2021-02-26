@@ -2,7 +2,7 @@
 Systematic literature review data, implementation and resources for the development of the paper "Towards Design Principles for User-Centric Explainable AI in Fraud Detection" submitted to HCI International 2021 by Douglas Cirqueira, Markus Helfert and Marija Bezbradica.
 
 # Simulation Results 
-The Python script adopted to perform the user simulated experiment, and instantiate explanation methods is available at the [resources folder.](https://github.com/dougcirqueira/hcii-21-user-centric-explainable-ai-fraud-detection/tree/main/resources/simulation) 
+The Python script and dataset adopted to perform the user simulated experiment, and instantiate explanation methods is available at the [resources folder.](https://github.com/dougcirqueira/hcii-21-user-centric-explainable-ai-fraud-detection/tree/main/resources/simulation) 
 
 # Results of Systematic Literature Review: Identifying Design Features of Explanation Methods
 The complete set of papers and statistics for the literature review are available at the [resources folder.](https://github.com/dougcirqueira/hcii-21-user-centric-explainable-ai-fraud-detection/tree/main/resources/systematic_literature_review)
