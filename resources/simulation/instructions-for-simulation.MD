@@ -12,4 +12,4 @@ you will obtain the results for SUC based on a random deletion of features.
 7. When the simulation ends, you will obtain a file at your environment naming "confidences_all_XAI.csv"
 8. The results reported on the paper are the averages for SUC scores obtained by each explanation method
 
-If you have any issues, please do not hesitate to contact me at: douglas.darochacirqueira2@mail.dcu.ie
+If you have any issues, please do not hesitate to contact me at: douglas.darochacirqueira2(at)mail.dcu.ie
